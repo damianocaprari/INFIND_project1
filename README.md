@@ -13,4 +13,6 @@ Analisi pericoli, stima di affidabilità dei livelli
 Richiede un PLC in CODESYS che permette di automatizzare un sistema scelto
 
 Durante l'esame fa varie domande ai componenti del gruppo
-+ qualche domanda che fa riferimento alla teoria
+oltre a qualche domanda che fa riferimento alla teoria
+
+Se si ha qualcosa che si riesce a concordare alla parte di IoT tanto meglio
