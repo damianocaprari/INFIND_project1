@@ -18,3 +18,6 @@ oltre a qualche domanda che fa riferimento alla teoria
 Se si ha qualcosa che si riesce a concordare alla parte di IoT tanto meglio
 
 ### esempio: https://youtu.be/DP62ogEZgkI
+
+### diagramma
+https://drive.google.com/file/d/1n4Hw6knTqgQF1aR8FTIcauJkF-bxFPAm/view?usp=sharing
