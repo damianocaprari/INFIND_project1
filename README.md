@@ -21,3 +21,6 @@ Se si ha qualcosa che si riesce a concordare alla parte di IoT tanto meglio
 
 ### diagramma
 https://drive.google.com/file/d/1n4Hw6knTqgQF1aR8FTIcauJkF-bxFPAm/view?usp=sharing
+
+#### appunti
+https://drive.google.com/open?id=1K4i2K1zeyWEhX0y3JTqvjrQxfwMVxFGd3hl4wVpi6nE
