@@ -24,3 +24,6 @@ https://drive.google.com/file/d/1n4Hw6knTqgQF1aR8FTIcauJkF-bxFPAm/view?usp=shari
 
 #### appunti
 https://drive.google.com/open?id=1K4i2K1zeyWEhX0y3JTqvjrQxfwMVxFGd3hl4wVpi6nE
+
+##### statecharts
+https://drive.google.com/file/d/1Z_fiUDUehhrMt-i-T4gmoag3m3PrjZNa/view?usp=sharing
