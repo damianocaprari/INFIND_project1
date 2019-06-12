@@ -25,12 +25,9 @@ https://drive.google.com/file/d/1n4Hw6knTqgQF1aR8FTIcauJkF-bxFPAm/view?usp=shari
 #### appunti
 https://drive.google.com/open?id=1K4i2K1zeyWEhX0y3JTqvjrQxfwMVxFGd3hl4wVpi6nE
 
-#### tesina di pulli (come esempio)
-https://drive.google.com/file/d/1ggHtRFo9jAxEwa1twk2yHXuZ-22XVWwS/view?usp=sharing
-
-#### tesina (a cui ho lavorato un pochino per la parte iniziale -Asia)
-https://docs.google.com/document/d/1cNWSVSDdfcXx7DB05w34egP93uxqm30P6m_VulGXHlk/edit?usp=sharing
-
 ##### statecharts (incompleto)
 https://drive.google.com/file/d/1Z_fiUDUehhrMt-i-T4gmoag3m3PrjZNa/view?usp=sharing
 
+#### Cartella con i materiali
+https://drive.google.com/drive/folders/1dCp1yEfMa9DAlsiZXBkKdGAmKkViOTw7?usp=sharing
+(Asia): Ho messo la tesina di Pulli, la nostra (di cui ho fatto solo l'introduzione) e il project in codesys (di cui ho fatto solo il semaforo singolo, it ain't much, but it's honest work). Inoltre, se riuscite, spostate tutti i vostri file e robe in questa cartella, così teniamo tutto nello stesso posto.
