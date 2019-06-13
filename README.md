@@ -32,4 +32,5 @@ https://drive.google.com/file/d/1Z_fiUDUehhrMt-i-T4gmoag3m3PrjZNa/view?usp=shari
 https://drive.google.com/drive/folders/1dCp1yEfMa9DAlsiZXBkKdGAmKkViOTw7?usp=sharing
 
 (12/06/2019 - Asia): Ho messo la tesina di Pulli, la nostra (di cui ho fatto solo l'introduzione) e il project in codesys (di cui ho fatto solo il semaforo singolo ma non avevo più tempo e non l'ho debuggato, it ain't much, but it's honest work). Inoltre, se riuscite, spostate tutti i vostri file e robe in questa cartella, così teniamo tutto nello stesso posto.
+
 (13/06/2019 - Asia): Su Tesina-Pazzi.project c'è il semaforo base finito e funzionante (ho commentato il più possibile, spero si capisca).
