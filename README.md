@@ -33,4 +33,4 @@ https://drive.google.com/drive/folders/1dCp1yEfMa9DAlsiZXBkKdGAmKkViOTw7?usp=sha
 
 (12/06/2019 - Asia): Ho messo la tesina di Pulli, la nostra (di cui ho fatto solo l'introduzione) e il project in codesys (di cui ho fatto solo il semaforo singolo ma non avevo più tempo e non l'ho debuggato, it ain't much, but it's honest work). Inoltre, se riuscite, spostate tutti i vostri file e robe in questa cartella, così teniamo tutto nello stesso posto.
 
-(13/06/2019 - Asia): Su Tesina-Pazzi.project c'è il semaforo base finito e funzionante (ho commentato il più possibile, spero si capisca).
+(13/06/2019 - Asia): Su Tesina-Pazzi.project c'è il semaforo base finito e funzionante (ho commentato il più possibile, spero si capisca). Ho aggiunto un'introduzione migliore sulla tesina e fatto la descrizione dello state charts del semaforo singolo. Il problema è che non riesco ad accedere al file statecharts per modificarlo e finirlo :/ mi date l'accesso pls?
